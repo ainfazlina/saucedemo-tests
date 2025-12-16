@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Playwright test reports
+/playwright-report/
